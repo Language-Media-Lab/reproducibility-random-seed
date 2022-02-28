@@ -1,5 +1,5 @@
 # 書誌情報
-竹下昌志, ジェプカラファウ, 荒木健治 (2022), NLPモデルの性能の再現可能な測定に向けて:再現性の時間軸モデルと日本のNLP研究の再現性の簡易的調査, 言語処理学会第28回年次大会(NLP2022)
+竹下昌志, ジェプカラファウ, 荒木健治, (2022), NLPモデルの性能の再現可能な測定に向けて:再現性の時間軸モデルと日本のNLP研究の再現性の簡易的調査, 言語処理学会第28回年次大会(NLP2022)
 
 # RS値によるランダム性
 [RS_livdoor.ipynb](https://github.com/Language-Media-Lab/reproducibility-random-seed/blob/main/RS_livdoor.ipynb)に実装コードを載せています。
